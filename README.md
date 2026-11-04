@@ -32,11 +32,11 @@ The MVP focuses on providing a complete and reliable research experience without
 
 ### System Diagram
 
-[View System Diagram (PDF)](docs/cs193diagram.drawio.pdf)
+[View System Diagram (PDF)](cs193diagram.drawio.pdf)
 
 ### Eisenhower Matrix
 
-[View Eisenhower Matrix (PDF)](docs/eisenhower-matrix.pdf)
+[View Eisenhower Matrix (PDF)](eisenhower-matrix.pdf)
 
 ### Chunked Build Plan
 
@@ -59,11 +59,11 @@ The MVP focuses on providing a complete and reliable research experience without
 ```text
 wikitrail/
 ├── README.md
+├── cs193diagram.drawio.pdf
+├── eisenhower-matrix.pdf
 ├── docs/
 │   ├── build-plan.md
-│   ├── cs193diagram.drawio.pdf
-│   ├── eisenhower-matrix.md
-│   └── eisenhower-matrix.pdf
+│   └── eisenhower-matrix.md
 └── src/
     ├── main/
     │   └── java/
